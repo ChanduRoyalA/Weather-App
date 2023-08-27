@@ -1,0 +1,26 @@
+.IconCurrent {
+  font-size: 40px;
+  color: teal;
+}
+.CurrentDiv {
+  height: auto;
+  background-color: whitesmoke;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 10px 0;
+  padding: 30px 0;
+  border-radius: 10px;
+}
+.CurrentImgDiv {
+  background-color: lightgray;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 10px 0;
+  padding: 20px 0;
+  border-radius: 10px;
+}

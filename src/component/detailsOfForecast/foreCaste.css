@@ -1,0 +1,19 @@
+.headerinHr {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px 10px;
+  background-color: lightgray;
+  border-radius: 10px;
+  margin: 10px 0;
+}
+.avgDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: left;
+  background-color: whitesmoke;
+  border-radius: 10px;
+  margin: 10px 0;
+  padding: 0 20px;
+}
